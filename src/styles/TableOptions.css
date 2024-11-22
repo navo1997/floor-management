@@ -1,0 +1,12 @@
+.table-options {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .table-option {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+  }
+  
