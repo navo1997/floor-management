@@ -5,8 +5,6 @@ This is a React-based Floor Management Application that allows users to manage t
 Features
 Drag-and-drop functionality for tables within a floor plan.
 Display table details and statistics.
-Add new table options dynamically.
-Real-time state management with Redux.
 
 Prerequisites
 Before running this application, ensure the following software is installed on your machine:
